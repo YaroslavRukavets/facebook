@@ -1,0 +1,23 @@
+.Article-icon {
+  background-image: url("../src/images/icon-sprite9.png");
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.Article-icon__like-page {
+  background-image: url("../src/images/icon-sprite8.png");
+  background-position: 0 204px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+.Article-icon__like {
+  background-position: -19px 204px;
+}
+.Article-icon__comment {
+  background-position: -19px 242px;
+}
+.Article-icon__share {
+  background-position: 0 110px;
+}

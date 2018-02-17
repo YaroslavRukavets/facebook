@@ -1,0 +1,79 @@
+.Article {
+  padding: 12px;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  margin-bottom: 10px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+.Article__news-title {
+  color: #90949c;
+}
+.Article__author-photo {
+  border-radius: 100%;
+  float: left;
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+}
+.Article__title-text {
+  display: inline;
+  text-decoration: none;
+  color: #365899;
+}
+.Article__title-text_username {
+  font-weight: bold;
+  font-size: 14px;
+}
+.Article__main-image {
+  width: 476px;
+  height: 476px;
+}
+.Article__main-image-information {
+  border-left: 2px solid lightgray;
+  padding-left: 10px;
+  color: #90949c;
+}
+.Article__main-image-link {
+  display: block;
+  text-decoration: none;
+  color: #365899;
+}
+.Article__like-page-button {
+  position: relative;
+  left: 207px;
+  bottom: 15px;
+  border-radius: 2px;
+  color: #4b4f56;
+  border: 1px solid #ced0d4;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 2px 8px;
+}
+.Article__user-choice {
+  border-top: 1px solid lightgray;
+  margin-top: 5px;
+  padding-top: 5px;
+}
+.Article__button {
+  border: none;
+  background-color: transparent;
+  color: #616770;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: inherit;
+}
+.Article__button-like {
+  margin-right: 20px;
+  padding: 4px 4px 4px 0;
+}
+.Article__button-comment {
+  margin-right: 20px;
+  padding: 4px 4px 4px 0;
+}
+.Article__button-share {
+  margin-right: 20px;
+  padding: 4px 4px 4px 0;
+}
