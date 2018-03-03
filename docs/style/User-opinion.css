@@ -55,7 +55,7 @@
   border: none;
 }
 .Icon_picture-video {
-  background-image: url(../src/images/icon-sprite.png);
+  background-image: url(../images/icon-sprite.png);
   background-position: 0 1577px;
   display: inline-block;
   height: 20px;
@@ -63,7 +63,7 @@
   vertical-align: middle;
 }
 .Icon_feeling {
-  background-image: url(../src/images/icon-sprite.png);
+  background-image: url(../images/icon-sprite.png);
   background-position: 0 1682px;
   display: inline-block;
   height: 20px;
